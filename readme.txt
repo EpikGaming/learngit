@@ -6,5 +6,5 @@ Test again.
 Test test again.
 Creating a new branch is quick and simple.
 This is a merge test.
-This is a creat ner branch test.
 Check the text on github.
+Creat a conflict in branch dev.
