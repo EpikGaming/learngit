@@ -5,3 +5,5 @@ Git tracks changes of files.
 Test again.
 Test test again.
 Creating a new branch is quick.
+Creat a conflict in branch dev.
+fcbausvbbeoa
