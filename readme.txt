@@ -5,3 +5,4 @@ Git tracks changes of files.
 Test again.
 Test test again.
 Creating a new branch is quick and simple.
+This is a merge test.
