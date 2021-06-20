@@ -5,5 +5,5 @@ Git tracks changes of files.
 Test again.
 Test test again.
 Creating a new branch is quick.
-Creat a another conflict.
-Creating a new branch is quick & simple.
+Creat a conflict in branch dev.
+Creating a new branch is quick and simple.
