@@ -10,3 +10,4 @@ Check the text on github.
 Creat a conflict in branch dev.
 UserA add a file named 1.txt.
 UserA alter 1.txt.
+UserB add a file named 2.txt.
