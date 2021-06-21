@@ -8,3 +8,4 @@ Creating a new branch is quick and simple.
 This is a merge test.
 Check the text on github.
 Creat a conflict in branch dev.
+UserA add a file named 1.txt.
