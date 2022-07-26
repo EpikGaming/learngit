@@ -11,3 +11,5 @@ Creat a conflict in branch dev.
 Creating a new branch is quick and simple.
 
 I created a new branch.
+
+I write code on master.
